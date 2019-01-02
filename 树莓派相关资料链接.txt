@@ -1,0 +1,15 @@
+http://www.shumeipai.net/forum.php?mod=viewthread&tid=55330&page=1&extra=#pid207863
+
+树莓派资料全套资料链接: https://pan.baidu.com/s/1i4AzS2p 密码: u2d7
+
+系统安装PDF文本讲解链接: https://pan.baidu.com/s/1nvJvuIH 密码: 69um
+
+开启ssh服务：http://shumeipai.nxez.com/2017/09/13/raspberry-pi-network-configuration-before-boot.html
+
+ssh连接：http://shumeipai.nxez.com/2017/02/27/raspbian-ssh-connection-refused.html
+
+ssh连接不成功的解决方法：http://shumeipai.nxez.com/2013/10/06/windows-remote-desktop-connection-raspberry-pi.html
+
+利用ssh登录vnc桌面：https://jingyan.baidu.com/article/597a0643536106312b5243fc.html
+
+
